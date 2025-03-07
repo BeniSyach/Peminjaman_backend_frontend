@@ -14,8 +14,8 @@ Sebelum menginstal proyek ini, pastikan sistem Anda memenuhi persyaratan berikut
 ### 1. Clone Repository
 
 ```sh
-git clone https://github.com/username/repository.git
-cd repository
+git clone https://github.com/BeniSyach/Peminjaman_backend_frontend.git
+cd Peminjaman_backend_frontend
 ```
 
 Gantilah `username/repository` dengan nama repository yang sesuai.
