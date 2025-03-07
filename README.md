@@ -77,6 +77,20 @@ Akses aplikasi melalui:
 http://127.0.0.1:8000
 ```
 
+```
+ADMIN
+NIK : 1234567890123456
+password : password123
+
+PETUGAS
+NIK : 9876543210987654
+password : password123
+
+CUSTOMER
+NIK : 5678901234567890
+password : password123
+```
+
 atau domain yang telah dikonfigurasi.
 
 ## Troubleshooting
